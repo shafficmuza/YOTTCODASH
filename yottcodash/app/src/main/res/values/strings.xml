@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">YOTTCO | UNHCR</string>
+    <string name="yottco">YOTTCO</string>
+    <string name="sgbvTitle">SGBV</string>
+    <string name="sgbv_desc">Sexual Gender Based Violence</string>
+    <string name="aboutYottco">About YOTTCO</string>
+    <string name="backgroundYottco">Background of YOTTCO</string>
+    <string name="checkBank">Check your bank activities</string>
+    <string name="programs">Programs</string>
+    <string name="add">Add</string>
+    <string name="location">Location</string>
+    <string name="facebook">Facebook</string>
+    <string name="tel1">0704028249</string>
+    <string name="tel2">0778071753</string>
+    <string name="email1">chardronie@yahoo.com</string>
+    <string name="email2">yottco@rocketmail.com</string>
+    <string name="yottco_full">Youth of The Twenty First Century Organisation</string>
+    <string name="yottco_address">Mutundwe Parish, Lubaga division Kabaawo zone P.O Box 7451</string>
+    <string name="police_station">Police Stations</string>
+    <string name="police">Police</string>
+    <string name="health_centres">Health Centres</string>
+    <string name="csos">CSOs</string>
+    <string name="health">Health</string>
+    <string name="civile_society_organisations">Civil Society Organisations</string>
+
+
+    <string name="news">News</string>
+    <string name="incident">Incident</string>
+    <string name="incidentReport">Report Incident</string>
+    <string name="serviceProviders">Service Providers</string>
+    <string name="ourPartners">Our Partners</string>
+    <string name="ourPrograms">Our Programs</string>
+    <string name="no_network">No Network Connection</string>
+    <string name="about">Youth of The Twenty First Century Organization (YOTTCO) is a community based organization in Mutundwe Parish of Lubaga Division established in March 2012 to empower vulnerable urban youth of different nationalities including refugee youth to become self-reliant and effectively participate in community development.The organization trains youth in relevant entrepreneurship skills to engage in gainful self-employment and live a meaningful life. The idea of YOTTCO was conceived by a group of three youth who were unemployed and wanted to find solutions the unemploymentproblemthrough practical entrepreneurship skills. </string>
+    <string name="sgbv">About Sexual Gender Based Violence</string>
+    <string name="list_of_incidents">List of Incidents</string>
+    <string name="project_name">Enhancing Urban Refugee Youth Capacity to Secure, Protect and Respond to Sexual Gender Based Violence and Exploitation” in Makindye Division</string>
+    <string name="yottco_is_set">YOTTCO is set to implement a project titled </string>
+    <string name="vision_title">Vision</string>
+    <string name="vision_desc">“A society where youth are valued, respected and live a prosperous life”</string>
+    <string name="missionTitle">“Mission</string>
+    <string name="missionDesc">“To create opportunities for vulnerable urban youth to develop trade, financial resource base and entrepreneurship skills to be self-reliant and healthy”.</string>
+    <string name="legalStatus">Legal status</string>
+    <string name="legalStatusDesc">YOTTCO is legally registered as a Community Based Organisation (CBO) by Kampala City Council Authority in August 2012 (LUB/12/320).YOTTCO is also registered as a company limited by guarantee.</string>
+    <string name="values">Values</string>
+    <string name="valuesDesc">Respect, Care, Integrity, Transparency and Professionalism.</string>
+
+    <string name="objectives">Objectives</string>
+    <string name="objectivesDesc">1)	To initiate income generating activities that will employ and improve welfare of youth.
+2)	To promote entrepreneurship skills development among youth.
+3)	To facilitate access to sexual reproductive health rights of young people.
+4)	To promote youth talents through sports, art, music dance and drama.
+5)	To facilitate access to youth friendly financial services.
+6)	To network and collaborate with development organizations with similar objectives.
+</string>
+
+    <array name="genres">
+        <item>Kampala</item>
+        <item>Jinja</item>
+        <item>Wakiso</item>
+        <item>Mbale</item>
+        <item>Arua</item>
+        <item>Iganda</item>
+        <item>Mukono</item>
+        <item>Mbarara</item>
+    </array>
+
+</resources>

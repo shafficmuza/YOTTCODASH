@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "455996885352",
+    "firebase_url": "https://yotapp-f6542.firebaseio.com",
+    "project_id": "yotapp-f6542",
+    "storage_bucket": "yotapp-f6542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455996885352:android:44c23d9bca931a55c5eedd",
+        "android_client_info": {
+          "package_name": "com.shafficmuza.yotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455996885352-ss230gt8en2j2rn6oifp82vpt16bf8v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shafficmuza.yotapp",
+            "certificate_hash": "0c87843be392b066fc4ec0bc735fd9678807c074"
+          }
+        },
+        {
+          "client_id": "455996885352-nqt9m8jvgu94fllod2st9telbcrtrpbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmzo-x7NVtzDESsqFNCdM4f7G3XJAWAj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455996885352-nqt9m8jvgu94fllod2st9telbcrtrpbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455996885352:android:e1b78c7e715cfcd2c5eedd",
+        "android_client_info": {
+          "package_name": "com.shafficmuza.yottcodash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455996885352-ssq2c63mqnd6jfersb5fbu93k64a0l81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shafficmuza.yottcodash",
+            "certificate_hash": "0c87843be392b066fc4ec0bc735fd9678807c074"
+          }
+        },
+        {
+          "client_id": "455996885352-nqt9m8jvgu94fllod2st9telbcrtrpbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmzo-x7NVtzDESsqFNCdM4f7G3XJAWAj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455996885352-nqt9m8jvgu94fllod2st9telbcrtrpbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

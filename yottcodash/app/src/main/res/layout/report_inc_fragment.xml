@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <EditText
+        android:id="@+id/editTextTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/incident"
+        android:inputType="text"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="39dp"
+        android:paddingBottom="15dp"
+        android:layout_marginBottom="15dp"/>
+
+    <Spinner
+       android:layout_marginBottom="15dp"
+        android:id="@+id/spinnerGenres"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/genres">
+
+    </Spinner>
+
+    <Button
+
+        android:id="@+id/btnSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:background="@color/colorB3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/list_of_incidents"
+        android:textAlignment="center"
+        android:textColor="@color/colorB5" />
+
+    <ListView
+        android:id="@+id/listViewIncidents"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stackFromBottom="true" />
+
+</LinearLayout>
